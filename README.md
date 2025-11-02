@@ -18,12 +18,12 @@ TO UNDERSTAND REVENUE TRENDS, CUSTOMER BEHAVIOR AND COME UP WITH STRATEGIES TO C
 
 ## FOLDERS
 
-# Input filem- Outlines the requirements and expected outcome of the case study.
+1.Input filem- Outlines the requirements and expected outcome of the case study.
    And Contains the raw dataset used in the case study.
    
-2. # Final Presentation- Contains the sql code file from run on snowflake and the final presentaion.
+2. Final Presentation- Contains the sql code file from run on snowflake and the final presentaion.
 
-3) # working sheet- contains the work sheet done on google sheets and the graphs and the Miro board detailing     the steps i took to with the raw data.
+3)  working sheet- contains the work sheet done on google sheets and the graphs and the Miro board detailing     the steps i took to with the raw data.
 
 # TOOLS USED
 
@@ -31,5 +31,5 @@ TO UNDERSTAND REVENUE TRENDS, CUSTOMER BEHAVIOR AND COME UP WITH STRATEGIES TO C
 2. GOOGLE SHEET
 3. CANVA
 4. MIRO
-5) 
+
 
